@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-svelte3-no-multiple-empty-lines-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-plugin-svelte3": "^3.0.0",
+    "svelte": "^3.32.1"
+  }
+}
